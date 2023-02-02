@@ -1,0 +1,13 @@
+Model Outputs :
+
+1. Decision tree
+       mean:  4.288793129031417
+       std:  0.7481076672102451
+       
+2. Linear regression
+       mean:  5.030437102767305
+       std:  1.0607661158294832
+       
+3. Random Foreat regressor
+       mean:  3.3017844601395394 
+      std:  0.6893741642636602
